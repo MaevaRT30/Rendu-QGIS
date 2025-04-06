@@ -42,19 +42,19 @@ Informations sur ces données :
 Difficulté pour enregistrer le tableur dans QGIS : il a fallu choisir le délimiteur personnalisé avec le point-virgule pour que les colonnes apparaissent puis modifier le champ des points X et Y car les points n'apparaissaient pas au bon endroit au début. 
 
 #### Ajout de couche de point vide
-Après avoir rajouté les cités, j'ai crée une couche de point vide _"batailles navales"_ puis j'ai crée les points grâce à la _"barre d'outils de numérisation avancée"_. Pour les coordonnées géographiques, je les ai récupérés sur [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia) car c'est le seul site qui permettait de les trouver. Cependant, je me suis aussi appuyé sur une carte du livre, _The Oxford handbook of warfare in classical world_ pour vérifier leur emplacement.
+Après avoir rajouté les cités, j'ai crée une couche shapefile de point vide _"batailles navales"_ puis j'ai crée les points grâce à la _"barre d'outils de numérisation avancée"_. Pour les coordonnées géographiques, je les ai récupérés sur [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia) car c'est le seul site qui permettait de les trouver. Cependant, je me suis aussi appuyé sur une carte du livre, _The Oxford handbook of warfare in classical world_ pour vérifier leur emplacement. A l'aide de l'éditeur, j'ai pu déplacer les points s'ils n'étaient pas au bonne endroit.
 
-J'ai fait la même chose pour mettre les 2 ports du Pirée et du Gytheion car ce sont des endroits importants pour comprendre où était située les navires qui partaient d'Athènes et de Sparte. Enfin, j'ai ajouté deux autres couches pour les raids maritimes. Pour leurs points, j'ai dû utiliser la barre _"ajoutée une entité linéaire"_ plutôt qu'une _"entité ponctuelle"_. 
+J'ai fait la même chose pour mettre les 2 ports du Pirée et du Gytheion car ce sont des endroits importants pour comprendre où était située les navires qui partaient d'Athènes et de Sparte. Enfin, j'ai ajouté deux autres couches shapefile pour les raids maritimes. Pour leurs points, j'ai dû utiliser la barre _"ajoutée une entité linéaire"_ plutôt qu'une _"entité ponctuelle"_ pour tracer des courbes.
 
 #### Ajout et modification étiquettes et symboles
 Pour catégoriser les cités, j'ai changé les propriétés de la couche :
-* Symbologie => Symbole unique => catégorisé (valeur : alliance) avec deux points/ couleurs (valeur : Sparte / Athènes)
+* Symbologie => Symbole unique => catégorisé (valeur : alliance) avec deux points/ couleurs (valeur : Sparte / Athènes) et une légende.
 
 Pour la forme (symbologie), j'ai mis une ancre pour les ports car cela montre bien la présence de navire et des flèches pour les raids afin de montrer un déplacement.
 
 Ensuite, j'ai modifié les étiquettes, les cités étant parfois rassemblées au même endroit j'ai mis une police plus petite pour qu'on puisse toutes les voir sinon certaines disparaissaient de la carte.
 
-Pour les couleurs, j'ai choisi de mettre l'océan en bleu et la terre en vert puis, de choisir des couleurs qui soient lisibles et jolies sur ce fond. Les batailles sont traditionnellement en rouge et cela est bien visible. 
+Pour les couleurs, j'ai choisi de mettre l'océan en bleu de manière traditionelle et la terre en vert puis, de choisir des couleurs qui soient lisibles et jolies sur ce fond. Les batailles en rouge sont bien visible. 
 
 #### Mise en page
 Création d'une mise en page avec une légende et un titre de légende, une échelle, une flèche nord et l'auteur avec la date. Pour la légende j'ai créé deux groupes entre les lieux (cités / ports) et les mouvements maritimes (raids / batailles) en ajoutent des éléments au nom de certains éléments de la légende dans les propriétés (modification : taille, police, espace).
