@@ -62,7 +62,8 @@ Création d'une mise en page avec une légende et un titre de légende, une éch
 Une des difficultés rencontrée est que la carte de la mise en page étant plus petite, certaines étiquettes disparaissaient ou changer de place. Il m'a fallu faire quelques modifications sur la carte originale pour que la mise en page soit bonne, notamment déplacer certaines étiquettes.
 
 ### Carte finale
-![README.md](<https://github.com/MaevaRT30/Rendu-QGIS/blob/500020fd2f329dd88ace03b98d79769717790520/README.md>)
+[Carte mémoire.pdf](https://github.com/user-attachments/files/19622437/Carte.memoire.pdf)
+
 
 ### Sources bibliographiques et webographiques
 * Campbell, J. B. and Tritle, L. A., _The Oxford handbook of warfare in the classical world_, Oxford, 2013.
