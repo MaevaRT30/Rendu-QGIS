@@ -15,7 +15,7 @@ Pour les ajouter :
 * Couche => ajouter une couche => couche vecteur => couche.shp
 
 #### Ajout du jeu de données crée dans excel
-J'ai choisi de ne pas mentionner la totalité des cités possédant une puissance maritime durant l'époque classique mais uniquement les cités dont Thucydide mentionne qu'elles ont une puissance maritime pendant la guerre du Péloponnèse car ce sont les sources sur lesquelles j'ai le plus avancé. Ensuite j'ai ajouté les batailles navales car elles sont la source de violences entre les combattants tout comme une partie des raids maritimes. Cependant, je n'ai ajouté que les raids maritimes que j'ai trouvé pour le moment ce qui explique qu'il y en a peu. 
+J'ai choisi de ne pas mentionner la totalité des cités possédant une puissance maritime durant l'époque classique mais uniquement les cités dont Thucydide mentionne qu'elles ont une puissance maritime pendant la guerre du Péloponnèse car ce sont les sources sur lesquelles j'ai le plus avancé. Ensuite j'ai ajouté les batailles navales car elles sont la source de violences entre les combattants tout comme une partie des raids maritimes. Cependant, je n'ai ajouté que les raids maritimes que j'ai trouvé pour le moment ce qui explique qu'ils y en aient peu. 
 
 **Tableur**
 | Cités         | X           | Y           | Alliance  |
