@@ -57,7 +57,7 @@ Ensuite, j'ai modifié les étiquettes, les cités étant parfois rassemblées a
 Pour les couleurs, j'ai choisi de mettre l'océan en bleu de manière traditionelle et la terre en vert puis, de choisir des couleurs qui soient lisibles et jolies sur ce fond. Les batailles en rouge sont bien visible. 
 
 #### Mise en page
-Création d'une mise en page avec une légende et un titre de légende, une échelle, une flèche nord et l'auteur avec la date. Pour la légende j'ai créé deux groupes entre les lieux (cités / ports) et les mouvements maritimes (raids / batailles) en ajoutent des éléments au nom de certains éléments de la légende dans les propriétés (modification : taille, police, espace).
+J'ai crée une mise en page avec une légende, un titre de légende, une échelle, une flèche nord, l'auteur et la date. Pour la légende j'ai créé deux groupes entre les lieux (cités / ports) et les mouvements maritimes (raids / batailles) en ajoutent des éléments au nom de certains éléments de la légende dans les propriétés (modification : taille, police, espace).
 
 Une des difficultés rencontrée est que la carte de la mise en page étant plus petite, certaines étiquettes disparaissaient ou changeaient de place. Il m'a fallu faire quelques modifications sur la carte originale pour que la mise en page soit bonne, notamment déplacer certaines étiquettes.
 
